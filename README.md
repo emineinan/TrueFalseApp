@@ -9,8 +9,9 @@ A simple true-false app built with Jetpack Compose that involves writing unit te
   </tr>
  
   <tr>
-  <td valign="top"><img src= https://github.com/emineinan/TrueFalseApp/assets/56589369/a6baec34-1e9a-4f5d-a9bb-5dcd3a0ef1ec height="480" width="220"<br>
+  <td valign="top"><img src= https://github.com/emineinan/TrueFalseApp/assets/56589369/1caa3ee6-3a52-46cb-b32a-18f0fc2cec84 height="480" width="220"<br>
   </tr>
  </table>
+
 
 
