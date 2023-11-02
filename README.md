@@ -2,15 +2,8 @@
 A simple true-false app built with Jetpack Compose that involves writing unit tests to test the ViewModel component.
 
 ## Preview 👀
+![newoutput-resized](https://github.com/emineinan/TrueFalseApp/assets/56589369/ff15fcd4-7693-4304-a75a-5ee9befba3a9)
 
- <table>
-  <tr>
-    <td> <b> True False App </b> </td>
-  </tr>
- 
-  <tr>
-  <td valign="top"><img src= https://github.com/emineinan/TrueFalseApp/assets/56589369/a6baec34-1e9a-4f5d-a9bb-5dcd3a0ef1ec height="480" width="220"<br>
-  </tr>
- </table>
+For a detailed explanation, you can check the article on [Medium](https://medium.com/huawei-developers/how-to-write-unit-tests-for-viewmodel-in-jetpack-compose-eb06cc81042c).
 
 
